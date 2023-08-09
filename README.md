@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-instagram.com/lhoseinfardl
-+989222782908
+- instagram.com/lhoseinfardl
+- call : +989222782908
 <!---
 lhoseinfardl/lhoseinfardl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
